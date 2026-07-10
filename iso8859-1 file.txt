@@ -1,3 +1,3 @@
 utf 16 file äöü
 
-new line
+new line | this is text from a suggestion
